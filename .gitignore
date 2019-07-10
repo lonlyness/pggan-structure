@@ -1,0 +1,5 @@
+data/
+repo/
+*.ipynb
+__pycache__/
+.python-version
